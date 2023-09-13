@@ -45,7 +45,7 @@ If you want to run this application locally:
    ```bash
    git clone https://github.com/avikshit-banerjee/Book-recommender-system.git
 
-The application will be accessible at [http://localhost:5000](http://localhost:5000).
+The application will be accessible at https://python-book-recommender-cec227bac164.herokuapp.com/
 
 ## Contributing
 
