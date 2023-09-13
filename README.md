@@ -12,9 +12,6 @@ This is a collaborative filtering-based book recommender system that suggests bo
 - **Search:** Users can search for specific books and get information about them.
 - **Responsive Design:** The web interface is designed to work seamlessly on desktop and mobile devices.
 
-## Demo
-
-You can access a live demo of the Book Recommender System [here](https://your-heroku-app-url.com).
 
 ## How to Use
 
@@ -28,8 +25,7 @@ You can access a live demo of the Book Recommender System [here](https://your-he
 
 ## Deployment
 
-The Book Recommender System is deployed on Heroku. You can access the live application at [https://your-heroku-app-url.com](https://your-heroku-app-url.com).
-
+The Book Recommender System is deployed on Heroku. You can access the live application at https://python-book-recommender-cec227bac164.herokuapp.com/
 ## Technologies Used
 
 - **Python:** The backend is written in Python using Flask.
@@ -45,7 +41,6 @@ If you want to run this application locally:
    ```bash
    git clone https://github.com/avikshit-banerjee/Book-recommender-system.git
 
-The application will be accessible at https://python-book-recommender-cec227bac164.herokuapp.com/
 
 ## Contributing
 
